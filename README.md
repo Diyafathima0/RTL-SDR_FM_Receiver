@@ -35,7 +35,7 @@ Antenna → RTL-SDR → SDR# Software → FM Demodulation → Audio Output
 | Bandwidth | 200 kHz |
 | Output | Clear audio playback |
 
-
+**Demo Video:** [Watch the FM Receiver in action](https://github.com/Diyafathima0/RTL-SDR_FM_Receiver/blob/48753d361397bca00f4de76f679c6cccd6132803/Screen%20Recording%202025-10-05%20203715.mp4)
 
 ## Concepts Learned
 - Fundamentals of FM modulation and demodulation.  
